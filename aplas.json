@@ -19,7 +19,28 @@
       "sme_name": "Kerwin Peetermann",
       "months_to_renew_support": "23",
       "sme_email": "Kerwin.Peetermann@memento.net.au",
-      "investment_number": "428"
+      "investment_number": "428",
+      "integrations": [
+        {
+          "id": "int-299",
+          "name": "INT-299",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Nulla mollis molestie lorem. Quisque ut erat.",
+          "sourceApplicationId": "sox_growth_hacking",
+          "targetApplicationId": "veribet",
+          "logical_server": "CLOUD-A2A",
+          "status_color": "#00FF00",
+          "pattern": "File Delivery",
+          "golive_date": "30/8/05",
+          "sme_name": "Muhammad Cammack",
+          "datacentre": "Asia Pacific (Melbourne)",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "mcammackh@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "30/6/15"
+        }
+      ]
     }
   ]
 }
