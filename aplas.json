@@ -1,21 +1,25 @@
 {
-  "id": "sox_growth_hacking",
-  "name": "SOX Growth Hacking",
-  "categoryId": "platform",
-  "description": "Synchronised contextually-based matrix",
-  "investment_24m": "867",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "86",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "353",
-  "deployment_date": "27/5/14",
-  "end_of_maintenance": "13/5/17",
-  "department": "Research and Development",
-  "status": "Active",
-  "end_of_life": "3/2/20",
-  "sme_name": "Kerwin Peetermann",
-  "months_to_renew_support": "23",
-  "sme_email": "Kerwin.Peetermann@memento.net.au",
-  "investment_number": "428"
+  "applications": [
+    {
+      "id": "sox_growth_hacking",
+      "name": "SOX Growth Hacking",
+      "categoryId": "platform",
+      "description": "Synchronised contextually-based matrix",
+      "investment_24m": "867",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "86",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "353",
+      "deployment_date": "27/5/14",
+      "end_of_maintenance": "13/5/17",
+      "department": "Research and Development",
+      "status": "Active",
+      "end_of_life": "3/2/20",
+      "sme_name": "Kerwin Peetermann",
+      "months_to_renew_support": "23",
+      "sme_email": "Kerwin.Peetermann@memento.net.au",
+      "investment_number": "428"
+    }
+  ]
 }
